@@ -15,7 +15,6 @@ Zhiguang Liu | lz7fd | 80%
 Han wang | hw747 | 10%
 Haotian Bai | hbc4c | 10%
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+## The database has 3 tables, one holds the login account, the username is 'username', password is 'password'.
+## Other two tables, one is the UserData table, it holds the 'username' and the 'add_date', the primary key is 'ID'
+## Another one is the Orders table, it holds the 'quantity' and 'whatever', also the 'ID' primary key.
