@@ -5,3 +5,4 @@ the database management page; only thing I need to do is add some new functions 
 Amazon ec2 server with mysql database, because Amazon ec2 is not free so I had stopped the server and move the system to infinity free.
 Because this project can only finished by a group, but I don't want to get some other one disrupt my system, so I decide invite my friends
 who studied CS1050 but no idea what is database, I teach them do some exercise management in this system, that is the meanning of it.
+The people in my team are Zhiguang Liu(my self pawprint lz7fd), Haotian Bai(hbc4c) and Han Wang(hw747), the URL of the management system is http://lz7fd.epizy.com/CS3380FinalProject/FinalProject/, we input our personal information in the mix table, we also input the demo data by our three.
