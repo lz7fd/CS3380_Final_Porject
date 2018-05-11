@@ -18,3 +18,9 @@ Haotian Bai | hbc4c | 10%
 ### The database has 3 tables, one holds the login account, the username is 'username', password is 'password', you need use it to login the management system.
 ### Other two tables, one is the UserData table, it holds the 'username' and the 'add_date', the primary key is 'ID'
 ### Another one is the Orders table, it holds the 'quantity' and 'whatever', also the 'ID' primary key.
+### In this management system, ID is the foreign key, it cross two tables to join it together.
+### The system has 7 different pages: the userdata table page, the orders table page, the mix table page, the searching page and 2 result pages.
+### In userdata table page and orders table page, people can add edit delete and read data from the table.
+### In searching page people can searh by ID or search by the range of quantity, then read on the result pages.
+### The result pages are the inner join result.
+### The mix page is read only, it's the inner join on ID from tables.
