@@ -14,3 +14,8 @@ Team member | Pawprint | Weight
 Zhiguang Liu | lz7fd | 80%
 Han wang | hw747 | 10%
 Haotian Bai | hbc4c | 10%
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
