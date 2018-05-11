@@ -8,8 +8,8 @@ who studied CS1050 but no idea what is database, I teach them do some exercise m
 The people in my team are Zhiguang Liu(my self pawprint lz7fd), Haotian Bai(hbc4c) and Han Wang(hw747), the URL of the management system
 is http://lz7fd.epizy.com/CS3380FinalProject/FinalProject/, we input our personal information in the mix table, we also input the demo 
 data by our three.
-Team member|Pawprint|Weight
------|--------|------
-Zhiguang Liu|lz7fd|80%
-Han wang|hw747|10%
-Haotian Bai|hbc4c|10%
+Team member | Pawprint | Weight
+--- | --- | ---
+Zhiguang Liu | lz7fd | 80%
+Han wang | hw747 | 10%
+Haotian Bai | hbc4c | 10%
