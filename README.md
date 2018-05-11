@@ -9,6 +9,7 @@ The people in my team are Zhiguang Liu(my self pawprint lz7fd), Haotian Bai(hbc4
 is http://lz7fd.epizy.com/CS3380FinalProject/FinalProject/, we input our personal information in the mix table, we also input the demo 
 data by our three.
 Team member | Pawprint | Weight
+
 --- | --- | ---
 Zhiguang Liu | lz7fd | 80%
 Han wang | hw747 | 10%
