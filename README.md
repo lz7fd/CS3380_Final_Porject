@@ -15,6 +15,6 @@ Zhiguang Liu | lz7fd | 80%
 Han wang | hw747 | 10%
 Haotian Bai | hbc4c | 10%
 
-## The database has 3 tables, one holds the login account, the username is 'username', password is 'password'.
-## Other two tables, one is the UserData table, it holds the 'username' and the 'add_date', the primary key is 'ID'
-## Another one is the Orders table, it holds the 'quantity' and 'whatever', also the 'ID' primary key.
+### The database has 3 tables, one holds the login account, the username is 'username', password is 'password', you need use it to login the management system.
+### Other two tables, one is the UserData table, it holds the 'username' and the 'add_date', the primary key is 'ID'
+### Another one is the Orders table, it holds the 'quantity' and 'whatever', also the 'ID' primary key.
